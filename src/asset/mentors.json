@@ -1,0 +1,100 @@
+[
+    {
+        "Cert ID": "CASSIOPIA2025-SWI2426",
+        "Name": "ABEL ZELALEM",
+        "Role": "Solidworks Trainer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "7e886805-86bb-417f-b16e-94d3417fd9c4"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-EV2425",
+        "Name": "DAGIM WALELIGN",
+        "Role": "Event Organizer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "fb6497cd-605e-4362-b8e5-24a625f7c99a"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-MLI2427",
+        "Name": "DECHASA TESHOME",
+        "Role": "ML Trainer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "d3db7b83-4fc7-4148-a1e2-653155648bbe"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-MLI2425",
+        "Name": "ELISHA ABRAHAM",
+        "Role": "ML Trainer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "c1e96843-bda1-4bca-9891-4579bd28141d"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-ADI2425",
+        "Name": "ERMIAS NURSEFA SHIKUR",
+        "Role": "Arduino Trainer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "f9cad05a-72dd-4f35-a377-42f806751f16"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-ADI2426",
+        "Name": "FKREMARIAM FENTAHUN",
+        "Role": "Arduino Trainer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "129a6326-eda5-459b-a872-fb528e53011f"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-SWI2425",
+        "Name": "HAILEGEBRIEL KIBEBEW",
+        "Role": "Solidworks Trainer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "bb1572b5-8ad2-49b3-9ef4-44c0618b5e95"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-CPI2425",
+        "Name": "HAYLEMESKEL HAYLEMARIAM",
+        "Role": "C++ Trainer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "224ad6e5-d333-4ebf-aa8e-e90cbad49e20"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-MLI2426",
+        "Name": "ILILLI JUHAR",
+        "Role": "ML Trainer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "8deaa2f1-9eb2-4267-9c77-e31d1888f194"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-CP2425",
+        "Name": "KHALID SANO",
+        "Role": "Cameraman and Photographer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "8982a77b-9a64-4b58-bfb5-c22eb49dafa7"
+    },
+    {
+        "Cert ID": "CASSIOPIA2025-GD2425",
+        "Name": "YORDANOS BELIHU",
+        "Role": "Graphics Designer",
+        "Issue Date": "2025-05-27",
+        "Unique_ID": "c2d9e114-9c4f-46f6-95b0-023f64341855"
+    },
+    {
+        "Cert ID": "CASSIOPIA-ESM2425",
+        "Name": "RUTH SHIMELES",
+        "Course": "Embedded Systems Mentor",
+        "Issue Date": "2026-01-27",
+        "Unique_ID": "0092fe19-c27b-42bb-857b-85aa8b4465f4"
+    },
+    {
+        "Cert ID": "CASSIOPIA-ESM2425",
+        "Name": "KALEB YOSEPH",
+        "Course": "Embedded Systems Mentor",
+        "Issue Date": "2026-01-27",
+        "Unique_ID": "29d89aef-bf48-488c-8a8c-30b1d54565cd"
+    },
+    {
+        "Cert ID": "CASSIOPIA-MITM2425",
+        "Name": "ABEL ZELALEM",
+        "Course": "MIT Calc Mentor",
+        "Issue Date": "2026-01-27",
+        "Unique_ID": "e7adba58-3f89-4a0f-9488-c5bb9e5cbc1f"
+    }
+]
